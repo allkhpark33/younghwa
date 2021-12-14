@@ -1,0 +1,12 @@
+.movie {
+  margin: 1rem;
+  width: 250px;
+  border-radius: 5px;
+  overflow: hidden;
+  cursor: pointer;
+  box-shadow: 0 5px 3px 0 rgba(0, 0, 0, 0.3);
+}
+
+.movie img {
+  max-width: 100%;
+}

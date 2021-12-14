@@ -1,0 +1,27 @@
+.h1 {
+  padding-top: 15rem;
+  color: #fff;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 7vw;
+  user-select: none;
+  text-align: center;
+}
+
+.h3 {
+  color: #fff;
+  font-weight: bold;
+  font-size: 3.5vw;
+  user-select: none;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  border: white solid 0.4rem;
+  padding: 10px 20px 15px 20px;
+}
+
+.h3:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}

@@ -1,0 +1,37 @@
+.mainImg {
+  filter: grayscale(100%);
+  width: 100%;
+  height: auto;
+  position: relative;
+  z-index: -1;
+}
+
+.poster {
+  display: block;
+  max-width: 30vw;
+  height: auto;
+  margin-top: -150px;
+  object-fit: contain;
+}
+
+.info {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  justify-content: space-around;
+  padding: 2rem;
+}
+
+.title {
+  margin-bottom: 1rem;
+}
+
+.description {
+  line-height: 1.5;
+}
+
+.thumb {
+  font-size: 20px;
+  padding: 5px;
+  cursor: pointer;
+}
