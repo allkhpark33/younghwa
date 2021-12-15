@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/younghwa/static/css/main.9013f682.chunk.css",
-    "main.js": "/younghwa/static/js/main.d1cca475.chunk.js",
-    "main.js.map": "/younghwa/static/js/main.d1cca475.chunk.js.map",
+    "main.js": "/younghwa/static/js/main.a8abba27.chunk.js",
+    "main.js.map": "/younghwa/static/js/main.a8abba27.chunk.js.map",
     "runtime-main.js": "/younghwa/static/js/runtime-main.a762a10a.js",
     "runtime-main.js.map": "/younghwa/static/js/runtime-main.a762a10a.js.map",
     "static/css/2.0a9ec390.chunk.css": "/younghwa/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.0720d0c1.chunk.js": "/younghwa/static/js/2.0720d0c1.chunk.js",
-    "static/js/2.0720d0c1.chunk.js.map": "/younghwa/static/js/2.0720d0c1.chunk.js.map",
+    "static/js/2.7f3b537d.chunk.js": "/younghwa/static/js/2.7f3b537d.chunk.js",
+    "static/js/2.7f3b537d.chunk.js.map": "/younghwa/static/js/2.7f3b537d.chunk.js.map",
     "static/js/3.f6348059.chunk.js": "/younghwa/static/js/3.f6348059.chunk.js",
     "static/js/3.f6348059.chunk.js.map": "/younghwa/static/js/3.f6348059.chunk.js.map",
     "index.html": "/younghwa/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/younghwa/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.9013f682.chunk.css.map": "/younghwa/static/css/main.9013f682.chunk.css.map",
-    "static/js/2.0720d0c1.chunk.js.LICENSE.txt": "/younghwa/static/js/2.0720d0c1.chunk.js.LICENSE.txt"
+    "static/js/2.7f3b537d.chunk.js.LICENSE.txt": "/younghwa/static/js/2.7f3b537d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a762a10a.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.0720d0c1.chunk.js",
+    "static/js/2.7f3b537d.chunk.js",
     "static/css/main.9013f682.chunk.css",
-    "static/js/main.d1cca475.chunk.js"
+    "static/js/main.a8abba27.chunk.js"
   ]
 }
