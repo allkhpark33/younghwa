@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link, useNavigate, Routes, Route } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import {
   Navbar,
   Nav,
@@ -8,12 +8,10 @@ import {
   FormControl,
   Button,
 } from "react-bootstrap";
-import { useSelector, useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { searchMovies } from "../modules/movies";
-import Search from "./Serach";
 
 const Header = () => {
-  const { data } = useSelector((state) => state.movies.searchMovies);
   const dispatch = useDispatch();
 
   const navigate = useNavigate();
@@ -68,9 +66,6 @@ const Header = () => {
           </Navbar.Collapse>
         </Container>
       </Navbar>
-      <Routes>
-        <Route path="/search" element={<Search searchMovies={data} />}></Route>
-      </Routes>
     </div>
   );
 };
